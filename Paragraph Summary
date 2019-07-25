@@ -1,0 +1,8 @@
+Our project consists of one main and one class. The Game class features five methods and an initializer, 
+each method featuring one function of the game. Main is the driver of the program and features multiple 
+calls to the methods in the Game class. Inside the main class, there are multiple print statements, each 
+representing the different stages of the hangman game. Another crucial part of the main class is to determine 
+whether the user wins the round or not. Once the win condition is met, the main while loop terminates 
+and ends the program. Inside the game class, there are multiple methods that run the input to see 
+whether or not the word or letter is correct. A while loop was present in the game class to detect 
+the amount of attempts left for the user.
